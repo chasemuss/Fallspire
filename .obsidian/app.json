@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "_Templates/",
+    "_Template Parts/",
+    "TTRPGs/Atenedri/Old Notes/"
+  ],
+  "propertiesInDocument": "source",
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "readableLineLength": true
+}

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"0e5ca209cc1253b3","type":"file","file":"Characters/Duchess Wenefreda.md","x":-235,"y":-262,"width":400,"height":400},
+		{"id":"f2d60e4cdd474846","type":"file","file":"Characters/The Duke of Fallspire.md","x":-780,"y":-262,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6d706cdf2df92029","fromNode":"0e5ca209cc1253b3","fromSide":"left","toNode":"f2d60e4cdd474846","toSide":"right"},
+		{"id":"c477196c0f8e7127","fromNode":"f2d60e4cdd474846","fromSide":"right","toNode":"0e5ca209cc1253b3","toSide":"left","label":"Married"}
+	]
+}
