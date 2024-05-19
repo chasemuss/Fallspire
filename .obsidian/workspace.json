@@ -23,11 +23,14 @@
             "id": "7837be34abb1041b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fallspire.md",
-                "mode": "source",
-                "source": false
+                "file": "Visual Aid.canvas",
+                "viewState": {
+                  "x": 353.03432584084203,
+                  "y": -526.3643035065128,
+                  "zoom": -0.19999999999999996
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fallspire.md",
+                "file": "Visual Aid.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fallspire.md",
+                "file": "Visual Aid.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallspire.md"
+                "file": "Visual Aid.canvas"
               }
             }
           },
@@ -173,8 +176,12 @@
   },
   "active": "7837be34abb1041b",
   "lastOpenFiles": [
-    "Visual Aid.canvas",
+    "Characters/The Duke of Fallspire.md",
+    "Characters/Duchess Wenefreda.md",
+    "Locations/Basinwharf.md",
     "Fallspire.md",
+    "Style Settings.md",
+    "Visual Aid.canvas",
     "Locations/Sandscar.md",
     "Locations/Swamphollow.md",
     "Locations/Slukdug Mountains.md",
@@ -182,9 +189,6 @@
     "Locations/Fallspire Academy.md",
     "Locations/Ewol.md",
     "Locations/Bonewall.md",
-    "Locations/Basinwharf.md",
-    "Characters/The Duke of Fallspire.md",
-    "Characters/Duchess Wenefreda.md",
     "_Templates/Session Notes.md",
     "_Templates/Character.md",
     "_Templates/Location.md",
