@@ -23,14 +23,11 @@
             "id": "7837be34abb1041b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Visual Aid.canvas",
-                "viewState": {
-                  "x": 353.03432584084203,
-                  "y": -526.3643035065128,
-                  "zoom": -0.19999999999999996
-                }
+                "file": "Characters/The Duke of Fallspire.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Aid.canvas",
+                "file": "Characters/The Duke of Fallspire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Aid.canvas",
+                "file": "Characters/The Duke of Fallspire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Aid.canvas"
+                "file": "Characters/The Duke of Fallspire.md"
               }
             }
           },
@@ -176,19 +173,19 @@
   },
   "active": "7837be34abb1041b",
   "lastOpenFiles": [
-    "Characters/The Duke of Fallspire.md",
     "Characters/Duchess Wenefreda.md",
-    "Locations/Basinwharf.md",
     "Fallspire.md",
-    "Style Settings.md",
-    "Visual Aid.canvas",
+    "Locations/Bonewall.md",
     "Locations/Sandscar.md",
     "Locations/Swamphollow.md",
+    "Visual Aid.canvas",
+    "Characters/The Duke of Fallspire.md",
+    "Locations/Basinwharf.md",
+    "Style Settings.md",
     "Locations/Slukdug Mountains.md",
     "Locations/Misthaven.md",
     "Locations/Fallspire Academy.md",
     "Locations/Ewol.md",
-    "Locations/Bonewall.md",
     "_Templates/Session Notes.md",
     "_Templates/Character.md",
     "_Templates/Location.md",
@@ -206,7 +203,6 @@
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire/Locations/Ewol.md",
     "TTRPGs/Fallspire/Locations/_Location Template.md",
-    "TTRPGs/Fallspire/Locations/Bonewall.md",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire",
     "TTRPGs/Fallspire/Fallspire",

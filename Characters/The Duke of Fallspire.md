@@ -3,7 +3,7 @@ alias:
  - The Duke of Fallspire
 type: NPC
 tags: 
- - Race/Unknown
+ - Race/Human
  - Title/Duke
 ---
 

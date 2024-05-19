@@ -16,4 +16,3 @@
 - [[Visual Aid.canvas|Visual Aid]]
 
 # Questions to Ask
-1) Where is the wedding taking place? [[Bonewall]] or [[Sandscar]] 
