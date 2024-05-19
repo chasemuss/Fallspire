@@ -3,7 +3,7 @@ alias:
  - <% tp.file.title %>
 tags: 
  - <% tp.file.folder(relative=true) %>
- - Race/
+ - Race/<% tp.system.prompt("Race: ") %>
  - Title/
 ---
 

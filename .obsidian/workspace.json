@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "50b99c7aaec33eda",
+        "id": "6659ee778b785308",
         "type": "tabs",
         "children": [
           {
-            "id": "c91e871c3b47c561",
+            "id": "99dd5f057eb7ebe0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Ryvon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/NPCs/Ryvon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/NPCs/Ryvon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/NPCs/Ryvon.md"
+              }
             }
           },
           {
@@ -138,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,28 +157,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c91e871c3b47c561",
+  "active": "99dd5f057eb7ebe0",
   "lastOpenFiles": [
+    "Locations/Bonewall.md",
+    "Locations/Basinwharf.md",
     "README.md",
     "Note Structure.md",
-    "_Templates/Character.md",
-    "_Templates/Location.md",
     "Fallspire.md",
+    "_Templates/Character.md",
+    "Characters/NPCs/test.md",
+    "Characters/NPCs/Ryvon.md",
+    "Characters/NPCs/The Duke of Fallspire.md",
+    "_Templates/Location.md",
     "Visual Aid.canvas",
     "_Templates/Session Notes.md",
     "Characters/Party/Godwyn.md",
     "Characters/Party/Lenore Silverwood.md",
     "Characters/Party/Thornroot.md",
     "Characters/Party/Conras Steward.md",
-    "Characters/NPCs/Ryvon.md",
     "Ryvon.md",
     "Unsorted",
     "Characters/NPCs/Duchess Wenefreda.md",
-    "Characters/NPCs/The Duke of Fallspire.md",
     "Characters/Party",
     "Characters/NPCs",
-    "Locations/Basinwharf.md",
-    "Locations/Bonewall.md",
     "Locations/Ewol.md",
     "Locations/Fallspire Academy.md",
     "Locations/Misthaven.md",
@@ -182,7 +190,6 @@
     "Characters/asdf.md",
     "Locations/_Location Template.md",
     "_Templates",
-    "TTRPGs/Fallspire/README.md",
     "TTRPGs/Fallspire/Characters",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire/Locations",
