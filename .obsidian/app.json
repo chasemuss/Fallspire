@@ -6,7 +6,8 @@
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
     "_Templates/",
-    "README"
+    "README",
+    "Note Structure"
   ],
   "propertiesInDocument": "source",
   "newFileLocation": "root",
