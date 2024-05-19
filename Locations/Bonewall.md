@@ -1,8 +1,8 @@
 ---
 alias: 
  - Bonewall
-type: Location
 tags: 
+ - Location
  - 
 ---
 

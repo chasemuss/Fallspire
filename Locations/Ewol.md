@@ -1,8 +1,8 @@
 ---
 alias: 
  - Ewol
-type: Location
 tags: 
+ - Location
  - 
 ---
 

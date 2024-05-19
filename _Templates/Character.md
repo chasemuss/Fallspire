@@ -1,8 +1,8 @@
 ---
 alias: 
  - <% tp.file.title %>
-type: NPC
 tags: 
+ - <% tp.file.folder(relative=true) %>
  - Race/
  - Title/
 ---

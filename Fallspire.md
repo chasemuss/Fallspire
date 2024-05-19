@@ -1,3 +1,12 @@
+# Useful Links
+- [D&D Beyond Campaign](https://www.dndbeyond.com/campaigns/3789002)
+
+# Party Members
+- [[Godwyn]]
+- [[Lenore Silverwood]]
+- [[Conras Steward]]
+- [[Thornroot]]
+
 # NPCs
 - [[Duchess Wenefreda]]
 - [[The Duke of Fallspire]]

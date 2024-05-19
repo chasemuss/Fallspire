@@ -1,8 +1,8 @@
 ---
 alias: 
  - Basinwharf
-type: Location
 tags: 
+ - Location
  - 
 ---
 

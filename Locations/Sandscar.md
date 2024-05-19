@@ -1,8 +1,8 @@
 ---
 alias: 
  - Sandscar
-type: Location
 tags: 
+ - Location
  - 
 ---
 

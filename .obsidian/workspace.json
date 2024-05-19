@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcfb8b889041462",
+        "id": "bb17b11d15059de1",
         "type": "tabs",
         "children": [
-          {
-            "id": "f268afd9fb0fcf97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sandscar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "7837be34abb1041b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/Session Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e36cdd4d37208ddb",
+            "id": "614b17d088b9bc09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,47 +171,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e36cdd4d37208ddb",
+  "active": "614b17d088b9bc09",
   "lastOpenFiles": [
-    "_Templates/Session Notes.md",
-    "README.md",
-    "_Templates/Location.md",
+    "Note Structure.md",
     "_Templates/Character.md",
-    "Characters/The Duke of Fallspire.md",
-    "Characters/Duchess Wenefreda.md",
+    "_Templates/Location.md",
+    "README.md",
     "Fallspire.md",
-    "Locations/Bonewall.md",
-    "Locations/Sandscar.md",
-    "Locations/Swamphollow.md",
     "Visual Aid.canvas",
+    "_Templates/Session Notes.md",
+    "Characters/Party/Godwyn.md",
+    "Characters/Party/Lenore Silverwood.md",
+    "Characters/Party/Thornroot.md",
+    "Characters/Party/Conras Steward.md",
+    "Characters/NPCs/Ryvon.md",
+    "Ryvon.md",
+    "Unsorted",
+    "Characters/NPCs/Duchess Wenefreda.md",
+    "Characters/NPCs/The Duke of Fallspire.md",
+    "Characters/Party",
+    "Characters/NPCs",
     "Locations/Basinwharf.md",
-    "Style Settings.md",
-    "Locations/Slukdug Mountains.md",
-    "Locations/Misthaven.md",
-    "Locations/Fallspire Academy.md",
+    "Locations/Bonewall.md",
     "Locations/Ewol.md",
+    "Locations/Fallspire Academy.md",
+    "Locations/Misthaven.md",
+    "Locations/Sandscar.md",
+    "Locations/Slukdug Mountains.md",
+    "Locations/Swamphollow.md",
+    "Style Settings.md",
     "Characters/asdf.md",
     "Locations/_Location Template.md",
-    "Untitled",
     "_Templates",
     "TTRPGs/Fallspire/README.md",
-    "Journal/2024-05-18.md",
-    "TTRPGs/Fallspire/Characters/The Duke of Fallspire.md",
-    "TTRPGs/Fallspire/Locations/_Location Template.md",
-    "TTRPGs/Fallspire/Characters/_Character Template.md",
-    "TTRPGs/Fallspire/Characters/Duchess Wenefreda.md",
     "TTRPGs/Fallspire/Characters",
     "TTRPGs/Fallspire/Locations",
-    "TTRPGs/Fallspire/Locations/Ewol.md",
-    "TTRPGs/Fallspire/Locations/_Location Template.md",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire",
     "TTRPGs/Fallspire/Fallspire",
     "TTRPGs/Sunday D&D/Attachments/Germain.png",
     "Journal/First Meeting with Sterling.jpg",
     "Coding_Projects/d3_project",
-    "Coding_Projects",
-    "Career Notes/Projects",
     "TTRPGs/Sunday D&D/Attachments/Germain.webp",
     "TTRPGs/Aurelia/Map_of_Aurelia.svg",
     "TTRPGs/Aurelia/Map_of_Aurelia.jpg",

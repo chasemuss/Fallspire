@@ -1,8 +1,8 @@
 ---
 alias: 
  - The Duke of Fallspire
-type: NPC
-tags: 
+tags:  
+ - Character/NPC
  - Race/Human
  - Title/Duke
 ---

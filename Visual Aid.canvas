@@ -1,13 +1,18 @@
 {
 	"nodes":[
-		{"id":"295e508447f5d3b4","type":"group","x":100,"y":-860,"width":985,"height":698,"label":"Rulers of Fallspire"},
-		{"id":"1806b595406f740b","x":-560,"y":-780,"width":400,"height":520,"type":"file","file":"Fallspire.md"},
-		{"id":"f2d60e4cdd474846","type":"file","file":"Characters/The Duke of Fallspire.md","x":120,"y":-820,"width":400,"height":638},
-		{"id":"0e5ca209cc1253b3","type":"file","file":"Characters/Duchess Wenefreda.md","x":665,"y":-820,"width":400,"height":638}
+		{"id":"4c7d6bf112213679","x":-640,"y":-1800,"width":1765,"height":498,"type":"group","label":"The Party"},
+		{"id":"295e508447f5d3b4","type":"group","x":100,"y":-860,"width":1100,"height":698,"label":"Rulers of Fallspire"},
+		{"id":"1806b595406f740b","type":"file","file":"Fallspire.md","x":-560,"y":-780,"width":400,"height":520},
+		{"id":"f2d60e4cdd474846","type":"file","file":"Characters/NPCs/The Duke of Fallspire.md","x":120,"y":-820,"width":400,"height":638},
+		{"id":"0e5ca209cc1253b3","type":"file","file":"Characters/NPCs/Duchess Wenefreda.md","x":760,"y":-820,"width":400,"height":638},
+		{"id":"387c46e5f1b8568b","x":-620,"y":-1752,"width":400,"height":400,"type":"file","file":"Characters/Party/Thornroot.md"},
+		{"id":"3a5c806e49c8d4a0","x":-180,"y":-1752,"width":400,"height":400,"type":"file","file":"Characters/Party/Conras Steward.md"},
+		{"id":"6b2723d8f8cb3a1e","x":260,"y":-1752,"width":400,"height":400,"type":"file","file":"Characters/Party/Godwyn.md"},
+		{"id":"8972951d167ee0fb","x":700,"y":-1752,"width":400,"height":400,"type":"file","file":"Characters/Party/Lenore Silverwood.md"}
 	],
 	"edges":[
 		{"id":"6d706cdf2df92029","fromNode":"0e5ca209cc1253b3","fromSide":"left","toNode":"f2d60e4cdd474846","toSide":"right"},
-		{"id":"c477196c0f8e7127","fromNode":"f2d60e4cdd474846","fromSide":"right","toNode":"0e5ca209cc1253b3","toSide":"left","label":"Married"},
+		{"id":"c477196c0f8e7127","fromNode":"f2d60e4cdd474846","fromSide":"right","toNode":"0e5ca209cc1253b3","toSide":"left","label":"To Be Married"},
 		{"id":"062771edae014321","fromNode":"1806b595406f740b","fromSide":"right","toNode":"295e508447f5d3b4","toSide":"left","label":"Ruled By"}
 	]
 }

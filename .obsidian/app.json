@@ -6,11 +6,10 @@
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
     "_Templates/",
-    "_Template Parts/",
-    "TTRPGs/Atenedri/Old Notes/"
+    "README"
   ],
   "propertiesInDocument": "source",
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "spellcheck": true,
   "attachmentFolderPath": "./",
   "pdfExportSettings": {
@@ -21,5 +20,6 @@
     "downscalePercent": 100
   },
   "livePreview": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileFolderPath": "Unsorted"
 }

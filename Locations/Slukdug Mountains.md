@@ -1,8 +1,8 @@
 ---
 alias: 
  - Slukdug Mountains
-type: Location
 tags: 
+ - Location
  - 
 ---
 

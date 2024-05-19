@@ -1,8 +1,8 @@
 ---
 alias: 
  - Swamphollow
-type: Location
 tags: 
+ - Location
  - 
 ---
 

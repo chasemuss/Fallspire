@@ -1,8 +1,8 @@
 ---
 alias: 
  - Misthaven
-type: Location
 tags: 
+ - Location
  - 
 ---
 

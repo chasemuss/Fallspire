@@ -1,8 +1,8 @@
 ---
 alias: 
  - <% tp.file.title %>
-type: Location
 tags: 
+ - Location
  - 
 ---
 
