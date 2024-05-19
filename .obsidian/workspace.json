@@ -23,14 +23,11 @@
             "id": "7837be34abb1041b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Visual Aid.canvas",
-                "viewState": {
-                  "x": -287.3942506927454,
-                  "y": 64.17109356859191,
-                  "zoom": -0.40000000000000013
-                }
+                "file": "Fallspire.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Aid.canvas",
+                "file": "Fallspire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Aid.canvas",
+                "file": "Fallspire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Aid.canvas"
+                "file": "Fallspire.md"
               }
             }
           },
@@ -162,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +173,7 @@
   },
   "active": "7837be34abb1041b",
   "lastOpenFiles": [
+    "Visual Aid.canvas",
     "Fallspire.md",
     "Locations/Sandscar.md",
     "Locations/Swamphollow.md",
@@ -189,7 +188,6 @@
     "_Templates/Session Notes.md",
     "_Templates/Character.md",
     "_Templates/Location.md",
-    "Visual Aid.canvas",
     "Characters/asdf.md",
     "Locations/_Location Template.md",
     "Untitled",
@@ -205,7 +203,6 @@
     "TTRPGs/Fallspire/Locations/Ewol.md",
     "TTRPGs/Fallspire/Locations/_Location Template.md",
     "TTRPGs/Fallspire/Locations/Bonewall.md",
-    "TTRPGs/Fallspire/Locations/Basinwharf.md",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire",
     "TTRPGs/Fallspire/Fallspire",
