@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/The Duke of Fallspire.md",
+                "file": "_Templates/Session Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e36cdd4d37208ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/The Duke of Fallspire.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/The Duke of Fallspire.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/The Duke of Fallspire.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,24 +183,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7837be34abb1041b",
+  "active": "e36cdd4d37208ddb",
   "lastOpenFiles": [
+    "_Templates/Session Notes.md",
+    "README.md",
+    "_Templates/Location.md",
+    "_Templates/Character.md",
+    "Characters/The Duke of Fallspire.md",
     "Characters/Duchess Wenefreda.md",
     "Fallspire.md",
     "Locations/Bonewall.md",
     "Locations/Sandscar.md",
     "Locations/Swamphollow.md",
     "Visual Aid.canvas",
-    "Characters/The Duke of Fallspire.md",
     "Locations/Basinwharf.md",
     "Style Settings.md",
     "Locations/Slukdug Mountains.md",
     "Locations/Misthaven.md",
     "Locations/Fallspire Academy.md",
     "Locations/Ewol.md",
-    "_Templates/Session Notes.md",
-    "_Templates/Character.md",
-    "_Templates/Location.md",
     "Characters/asdf.md",
     "Locations/_Location Template.md",
     "Untitled",
