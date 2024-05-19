@@ -14,4 +14,4 @@ tags:
 - Patron of the arts
 
 ## Relationships
-- To be wed to [[Duchess Wenefreda]]
+- To be wed to [[Duchess Wenefreda]] in [[Sandscar]]

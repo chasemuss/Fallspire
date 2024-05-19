@@ -12,5 +12,6 @@ tags:
 ## Notes
 
 
+
 ## Relationships
-- To be wed to [[The Duke of Fallspire]]
+- To be wed to [[The Duke of Fallspire]] in [[Sandscar]]

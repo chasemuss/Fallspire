@@ -1,1 +1,1 @@
-**Session <% tp.system.prompt("Session Number: ") %>** - 
+### #Session/<% tp.date.now(format="YYYY/MM/DD") %>
