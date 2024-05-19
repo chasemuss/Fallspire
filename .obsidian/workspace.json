@@ -23,11 +23,14 @@
             "id": "7837be34abb1041b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fallspire.md",
-                "mode": "source",
-                "source": false
+                "file": "Visual Aid.canvas",
+                "viewState": {
+                  "x": -287.3942506927454,
+                  "y": 64.17109356859191,
+                  "zoom": -0.40000000000000013
+                }
               }
             }
           }
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Title/Duke",
+                "query": "tag:#Session/2024/05/19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fallspire.md",
+                "file": "Visual Aid.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fallspire.md",
+                "file": "Visual Aid.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallspire.md"
+                "file": "Visual Aid.canvas"
               }
             }
           },
@@ -172,9 +175,10 @@
   },
   "active": "7837be34abb1041b",
   "lastOpenFiles": [
+    "Fallspire.md",
+    "Locations/Sandscar.md",
     "Locations/Swamphollow.md",
     "Locations/Slukdug Mountains.md",
-    "Locations/Sandscar.md",
     "Locations/Misthaven.md",
     "Locations/Fallspire Academy.md",
     "Locations/Ewol.md",
@@ -183,7 +187,6 @@
     "Characters/The Duke of Fallspire.md",
     "Characters/Duchess Wenefreda.md",
     "_Templates/Session Notes.md",
-    "Fallspire.md",
     "_Templates/Character.md",
     "_Templates/Location.md",
     "Visual Aid.canvas",
