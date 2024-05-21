@@ -2,7 +2,7 @@
 alias: 
  - Swamphollow
 tags: 
- - Location
+ - Locations
  - 
 ---
 

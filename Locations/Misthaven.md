@@ -2,7 +2,7 @@
 alias: 
  - Misthaven
 tags: 
- - Location
+ - Locations
  - 
 ---
 

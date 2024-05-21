@@ -2,7 +2,7 @@
 alias: 
  - Shellville
 tags: 
- - Location
+ - Locations
  - 
 ---
 

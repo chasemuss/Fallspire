@@ -2,7 +2,7 @@
 alias: 
  - Castle Bloodfang
 tags: 
- - Location
+ - Locations
  - 
 ---
 ![[Bloodfang.png]]

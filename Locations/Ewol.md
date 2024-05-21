@@ -2,7 +2,7 @@
 alias: 
  - Ewol
 tags: 
- - Location
+ - Locations
  - 
 ---
 

@@ -2,7 +2,7 @@
 alias: 
  - <% tp.file.title %>
 tags: 
- - Location
+ - <% tp.file.folder(relative=true) %>
  - 
 ---
 

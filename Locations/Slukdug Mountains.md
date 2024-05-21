@@ -2,7 +2,7 @@
 alias: 
  - Slukdug Mountains
 tags: 
- - Location
+ - Locations
  - 
 ---
 

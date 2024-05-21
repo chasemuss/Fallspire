@@ -2,7 +2,7 @@
 alias: 
  - Basinwharf
 tags: 
- - Location
+ - Locations
  - 
 ---
 

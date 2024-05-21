@@ -2,7 +2,7 @@
 alias: 
  - Bonewall
 tags: 
- - Location
+ - Locations
  - 
 ---
 
@@ -70,9 +70,11 @@ As we dream, we hear a voice say "The Moon will stop for No One"
 ## Sub-Locations
 **Bonewall Townhall** - Location of the wedding between the Duke & Duchess
 
-**Stormy Lavendar Tavern** 
-- Owner - [[Stanvag]] (Staniv(?))
-- Barmaid - Ollie
+### **Stormy Lavender Tavern** 
+- Owner - [[Stanvag Morninghorn]]
+- Barmaid - [[Olle]]
 
-**Wicked Purple Inn**
+### **Wicked Purple Inn**
 - Owner - Drasdrel the Dwarf
+
+### **Phantom Blue Marina**

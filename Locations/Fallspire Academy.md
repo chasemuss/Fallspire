@@ -2,7 +2,7 @@
 alias: 
  - Fallspire Academy
 tags: 
- - Location
+ - Locations
  - 
 ---
 

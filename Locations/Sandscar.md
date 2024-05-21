@@ -2,7 +2,7 @@
 alias: 
  - Sandscar
 tags: 
- - Location
+ - Locations
  - 
 ---
 
