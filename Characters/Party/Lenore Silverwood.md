@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lenore Silverwood
-
+![[Lenore_Silverwood.jpg|300]]
 ## Hometown
 Embris is a prosperous port city of commerce and culture and is the land of Thalaythia’s connection to the rest of the world. Embris sits at the mouth of the Emerald River, where it meets the vast expanse of the sea.
 

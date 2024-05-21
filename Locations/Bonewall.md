@@ -12,7 +12,7 @@ tags:
 - A fishing village
 
 ## Events
-### #Session/2024/05/19 
+### #Session/0 
 Wedding of [[Duchess Wenefreda]] & [[The Duke of Fallspire]]
 
 The troupe Caelum & I are travelling with stop at near a tavern for the night and we stay there, promising to join up with them before they leave at first light. 

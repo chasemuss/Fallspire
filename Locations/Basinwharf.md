@@ -12,7 +12,7 @@ tags:
 
 
 ## Events
-### #Session/2024/05/19
+### #Session/0
 A Massive Fighting Tournament that can either be observed or participated in
 
 ## Sub-Locations

@@ -11,8 +11,12 @@
             "id": "7a631c95f8d84a18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Party/Godwyn Bertilak.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lavendar",
+                "query": "tag:#Characters/Party",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Party/Godwyn Bertilak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Party/Godwyn Bertilak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Party/Godwyn Bertilak.md"
+              }
             }
           },
           {
@@ -151,6 +160,11 @@
   },
   "active": "7a631c95f8d84a18",
   "lastOpenFiles": [
+    "Characters/Party/Lenore Silverwood.md",
+    "Characters/Party/Godwyn Bertilak.md",
+    "Attachments/Godwyn.png",
+    "Locations/Sandscar.md",
+    "Attachments/Lenore_Silverwood.jpg",
     "Fallspire.md",
     "Locations/Bonewall.md",
     "Session Recaps/Session 0.md",
@@ -165,21 +179,17 @@
     "Locations/Phantom Blue Marina.md",
     "Dutchess Wenefreda.md",
     "Locations/Basinwharf.md",
-    "Characters/Party/Godwyn Bertilak.md",
     "Characters/Party/Conras Steward.md",
     "_Templates/Session Recaps.md",
     "_Templates/Session Notes - Inline.md",
     "_Templates/Location.md",
     "_Templates/Character.md",
     "Characters/Party/Caelum.md",
-    "Characters/Party/Lenore Silverwood.md",
     "Locations/Castle Bloodfang.md",
     "Attachments/Bloodfang.png",
     "Attachments",
     "Characters/NPCs/Duchess Wenefreda.md",
-    "Characters/NPCs/The Duke of Fallspire.md",
     "Session Recaps",
-    "README.md",
     "Visual Aid.canvas",
     "Unsorted",
     "Characters/Party",
@@ -197,8 +207,6 @@
     "Map_of_Aurelia.jpg",
     "TTRPGs/Levasa/Ashe Combat Flowchart.canvas",
     "Journal/Insurance 2024_1.jpg",
-    "TTRPGs/Atenedri/Liberty's Hall/Paladin Oath of Democracy Cover.png",
-    "TTRPGs/Atenedri/Liberty's Hall/Paladin Oath of Democracy v1.png",
     "Career Notes/AWS/Types of Architecture/Instance Scheduler.canvas",
     "Video Games/PalWorld/Path to Best Workers.canvas",
     "Unsorted Notes/The World Stage.canvas",
