@@ -11,12 +11,8 @@
             "id": "99dd5f057eb7ebe0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPCs/Ryvon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Session/2024/05/19",
+                "query": "tag:#Title",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Ryvon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPCs/Ryvon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/NPCs/Ryvon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,45 +152,45 @@
   },
   "active": "99dd5f057eb7ebe0",
   "lastOpenFiles": [
-    "Locations/Bonewall.md",
-    "Locations/Basinwharf.md",
-    "README.md",
-    "Note Structure.md",
+    "Characters/Party/Caelum.md",
+    "Characters/Party/Lenore Silverwood.md",
+    "Characters/Party/Godwyn.md",
     "Fallspire.md",
+    "Session Recaps/Session 0.md",
+    "Locations/Castle Bloodfang.md",
+    "Attachments/Bloodfang.png",
+    "Attachments",
+    "Characters/NPCs/Duchess Wenefreda.md",
+    "Characters/NPCs/The Duke of Fallspire.md",
+    "Characters/NPCs/Stanvag.md",
+    "Session Recaps",
+    "README.md",
+    "Locations/Bonewall.md",
+    "Visual Aid.canvas",
+    "Characters/Party/Thornroot.md",
+    "Characters/NPCs/Ryvon.md",
+    "Locations/Shellville.md",
+    "Locations/Basinwharf.md",
+    "Note Structure.md",
     "_Templates/Character.md",
     "Characters/NPCs/test.md",
-    "Characters/NPCs/Ryvon.md",
-    "Characters/NPCs/The Duke of Fallspire.md",
     "_Templates/Location.md",
-    "Visual Aid.canvas",
     "_Templates/Session Notes.md",
-    "Characters/Party/Godwyn.md",
-    "Characters/Party/Lenore Silverwood.md",
-    "Characters/Party/Thornroot.md",
     "Characters/Party/Conras Steward.md",
     "Ryvon.md",
     "Unsorted",
-    "Characters/NPCs/Duchess Wenefreda.md",
     "Characters/Party",
     "Characters/NPCs",
     "Locations/Ewol.md",
     "Locations/Fallspire Academy.md",
     "Locations/Misthaven.md",
-    "Locations/Sandscar.md",
-    "Locations/Slukdug Mountains.md",
-    "Locations/Swamphollow.md",
-    "Style Settings.md",
-    "Characters/asdf.md",
-    "Locations/_Location Template.md",
     "_Templates",
     "TTRPGs/Fallspire/Characters",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire/Locations",
     "TTRPGs/Fallspire",
-    "TTRPGs/Fallspire/Fallspire",
     "TTRPGs/Sunday D&D/Attachments/Germain.png",
     "Journal/First Meeting with Sterling.jpg",
-    "Coding_Projects/d3_project",
     "TTRPGs/Sunday D&D/Attachments/Germain.webp",
     "TTRPGs/Aurelia/Map_of_Aurelia.svg",
     "TTRPGs/Aurelia/Map_of_Aurelia.jpg",
@@ -206,7 +199,6 @@
     "Journal/Insurance 2024_1.jpg",
     "TTRPGs/Atenedri/Liberty's Hall/Paladin Oath of Democracy Cover.png",
     "TTRPGs/Atenedri/Liberty's Hall/Paladin Oath of Democracy v1.png",
-    "TTRPGs/Atenedri/Liberty's Hall/raskalpaladinsoldierholdingashieldandpistolhelldiversp6a1f9cd67c4b4ffea1672219030de2f3.png",
     "Career Notes/AWS/Types of Architecture/Instance Scheduler.canvas",
     "Video Games/PalWorld/Path to Best Workers.canvas",
     "Unsorted Notes/The World Stage.canvas",

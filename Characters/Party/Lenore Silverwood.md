@@ -9,7 +9,7 @@ tags:
 
 # Lenore Silverwood
 
-## Notes
+## Hometown
 Embris is a prosperous port city of commerce and culture and is the land of Thalaythia’s connection to the rest of the world. Embris sits at the mouth of the Emerald River, where it meets the vast expanse of the sea.
 
 At the heart of Embris lies the Grand Bazaar, a sprawling marketplace where merchants converge to trade their wares. Exotic spices, fine fabrics, and rare artifacts fill the stalls, their colors and scents mingling in the air. Street performers entertain the crowds with music and acrobatics, adding to the vibrant atmosphere.
@@ -19,7 +19,7 @@ Embris’ harbor is a sight to behold, filled with ships of all shapes and sizes
 The Silverwood family are prominent merchants of Embris, whose wealth and influence span generations. They specialize in the trade of Thalaythian goods like silk, silver, a rare purple dye, and other ‘luxury’ items with other countries. 
 
 
-### Backstory
+### Notes
 
 Lenore is the second child and only daughter of the Silverwood family. Raised in the opulent surroundings of her family's estate, Lenore was groomed from birth for high society. In the wealthy circles of Embris, she was known for her refined demeanor, always appearing poised and composed. Despite her privileged upbringing, Leon Silverwood’s emphasis on education ensured that Lenore was more than a pretty face. She is well-educated, having received tutoring in literature, mathematics, and economics. Lenore is also a skilled conversationalist, adept at charming even the most skeptical of acquaintances. Lenore's beauty and intelligence made her a sought-after match among the city's eligible bachelors, but she remained selective with her suitors. 
 

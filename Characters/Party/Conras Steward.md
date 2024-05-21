@@ -3,8 +3,8 @@ alias:
  - Conras Steward
 tags: 
  - Characters/Party
- - Race/{Custom}
- - Title/Rogue
+ - Race/Human
+ - Title/Rogue/Swashbuckler
 ---
 
 # Conras Steward

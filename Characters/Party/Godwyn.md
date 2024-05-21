@@ -4,10 +4,11 @@ alias:
 tags: 
  - Characters/Party
  - Race/Human
- - Title/Paladin
+ - Title/Paladin/Oath_of_Ancients
+ - Title/Warlock/Archfey
 ---
-
 # Godwyn
+[Character Sheet](https://www.dndbeyond.com/characters/124210467)
 
 ## Notes
 I used to be an adventurous boy, running through the forest near Mistwood Hollow. Although I had heard the others talk about The Hollow’s Heart, some creature that wandered the woods, I didn’t believe them. I was carefree (and a bit careless), climbing trees and talking with the animals he found. Once, I even came across an almiraj hole, chasing after them in a playful manner. On a fateful day, when the sun was able to pierce the canopy of the forest, I found a portal in the trunk of a large tree. Venturing into it, thinking “I’ll just pop my head in and see what’s through here”, little did I know that I would be teleported to the feywild. 
@@ -18,3 +19,13 @@ Once again, fate / luck / whatever shined upon me and allowed me to go back home
 
 ## Relationships
 - [[Ryvon]] - Leader of the Fey who took me under his protection
+
+# Ledger
+
+| Session | Transaction                          | GP Difference |
+| ------- | ------------------------------------ | ------------- |
+| 0       | **Starting Amount**                  | 8             |
+| 0       | Safe Passage to Bonewall with Circus | -1            |
+| 0       | Drinks for myself & Caelum           | -1            |
+| 0       | Gambling                             | -2            |
+| 0       | **Amount After Session**             | 4             |

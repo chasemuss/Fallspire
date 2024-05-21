@@ -2,7 +2,7 @@
 alias: 
  - Duchess Wenefreda
 tags:  
- - Character/NPC
+ - Characters/NPCs
  - Race/Human
  - Title/Duke
 ---
